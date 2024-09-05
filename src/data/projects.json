@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Loan Management System",
+      "imageSrc": "projects/loan.png",
+      "description": "This project was created to learn the latest tools like Power Apps, Power Automate, Dataverse, and Business Process Flows by building a loan management app. ", 
+      "skills": ["Power Apps", "Power Automate", "Dataverse", "Business Process Flow"]
+
+    },
+    {
+      "title": "Wyrmspan Dragon App",
+      "imageSrc": "projects/wyrmspan.png",
+      "description": "As a fan of board games, I created a virtual version of the 'Wyrmspan' companion book. This version is fully searchable, interactive, and even features audio descriptions, providing players with an enhanced and immersive experience.",
+      "skills": ["Vue.js", "C#", "SQL", "CSS"]
+
+    },
+    {
+      "title": "Mastermind",
+      "imageSrc": "projects/mastermind.png",
+      "description": "As a big fan of puzzle games, I developed a virtual version of the classic game 'Mastermind.' Players use logic and deduction to crack the correct color combination, making it a fun and engaging challenge in a digital format.",
+      "skills": ["C#"]
+
+    }
+  ]

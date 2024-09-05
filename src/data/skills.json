@@ -1,0 +1,42 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Vue",
+        "imageSrc": "skills/vue.png"
+      },
+    {
+        "title": "PowerApps",
+        "imageSrc": "skills/powerapps.png"
+    },
+    {
+        "title": "PowerAutomate",
+        "imageSrc": "skills/powerautomate.png"
+    },
+    {
+        "title": "PowerBI",
+        "imageSrc": "skills/powerbi.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/Csharp.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    }
+  ]
