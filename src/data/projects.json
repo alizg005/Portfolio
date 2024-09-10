@@ -2,7 +2,7 @@
     {
       "title": "Loan Management System",
       "imageSrc": "projects/loan.png",
-      "description": "This project was created to learn the latest tools like Power Apps, Power Automate, Dataverse, and Business Process Flows by building a loan management app. ", 
+      "description": "This project was created using tools like Power Apps, Power Automate, Dataverse, and Business Process Flows by building a loan management app. ", 
       "skills": ["Power Apps", "Power Automate", "Dataverse", "Business Process Flow"]
 
     },
