@@ -1,5 +1,18 @@
 
   [
+     {
+      "role": "Software Engineer / Automation Engineer",
+      "organisation": "EOS Worldwide",
+      "startDate": "November, 2024",
+      "endDate": "June,2025",
+      "experiences": ["Introduced & executed 300+ automated Playwright tests in C# to double test coverage & expedite release cycles, resulting in swift,reliable validation of application functionality.",
+       "Conducted thorough unit testing & debugging, ensuring high code quality & seamless integration of new features.",
+       "Wrote & deployed synthetic monitoring tests using Azure Function Apps to ensure continuous performance tracking & proactive issue detection.", 
+       "Collaborated closely with the QA team to reduce manual testing workload through robust automation strategies.",
+      "Actively participated in Agile ceremonies & sprint planning using Jira to manage tasks, track progress, & prioritize bug fixes.",
+    "Achieved significant boosts in UI stability & overall user experience across multiple sprints by skillfully addressing front-end defects & bugs related to JavaScript issues & CSS problems in Vue, resulting in remarkable enhancement."],
+      "imageSrc": "history/eos-logo.png"
+    },
     {
       "role": "Power Apps Developer",
       "organisation": "Skillstorm/PWC",
